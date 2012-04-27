@@ -500,10 +500,10 @@ body.two-col #content {
 }
 #header {
   position: relative;
-  color: #2e6ab1;
+  color: #FFA500;
   clear: both;
 }
-#header a { color: #2e6ab1; }
+#header a { color: #FFA500; }
 #header a:hover { color: #eeeeee; }
 #footer {
   padding-top: 2em;
